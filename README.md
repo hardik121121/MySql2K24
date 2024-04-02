@@ -20,6 +20,6 @@ Explore this directory to find SQL code files for different projects, exercises,
 
 Discover additional important files related to MySQL, such as documentation, notes, or presentations. They can be valuable resources for your learning journey.
 
-Feel free to explore, download, and use the files in this repository for your learning and reference purposes. If you have any questions or need assistance, don't hesitate to reach out at [your-email@example.com](mailto:your-email@example.com).
+Feel free to explore, download, and use the files in this repository for your learning and reference purposes. If you have any questions or need assistance, don't hesitate to reach out at [hardikarora](mailto:hardikarora483@example.com).
 
 Happy coding! 💪
